@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-project_name = "Flipkart"
+project_name = "flipkart"
 
 list_of_files = [
     f"{project_name}/__init__.py",
@@ -9,7 +9,7 @@ list_of_files = [
     f"{project_name}/data_ingestion.py",
     f"{project_name}/retrival_generation.py",
     "static/style.css",
-    "templates/chat.html",
+    "templates/index.html",
     "setup.py",
     "app.py",
     "requirements.txt",
